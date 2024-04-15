@@ -16,8 +16,8 @@ input_data = pd.read_csv("data/input_data.csv")
 champ_career_stats = pd.read_csv(
     "https://media.githubusercontent.com/media/yabeizeng1121/champions_edge/main/data/champ_career_stats.csv"
 )
+champ_career_stats = champ_career_stats.drop(["monsterkillsownjungle", "monsterkillsenemyjungle"], axis=1)
 champion_list = champ_career_stats["champion"].tolist()
-
 
 # Helper function to update input data based on user selections
 def update_input_data(input_data, selections):
