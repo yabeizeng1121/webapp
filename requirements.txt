@@ -1,0 +1,5 @@
+streamlit==1.4.0
+pandas
+numpy
+pillow==10.3.0
+modelbit  # Ensure you have the correct version, if specific
