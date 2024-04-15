@@ -1,4 +1,4 @@
-streamlit==1.4.0
+streamlit==1.32.2
 pandas
 numpy
 pillow==10.3.0
