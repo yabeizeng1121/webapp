@@ -1,0 +1,48 @@
+Skill,Percent Apprehend,Programming Language,Tool,Technology,Package,Web/Dashboard Design,Machine Learning,Data Engineering,Data Science,Data Analysis,Teamwork
+Python,95,1,0,0,0,0,1,1,1,1,0
+SQL,85,1,0,0,0,0,0,1,1,1,0
+Rust,60,1,0,0,0,0,0,1,0,0,0
+R,90,1,0,0,0,0,1,0,1,1,0
+C++,75,1,0,0,0,0,0,0,0,0,0
+Apache Spark,80,0,1,1,0,0,0,1,1,0,0
+HTML,80,1,0,0,0,1,0,0,0,0,0
+CSS,90,1,0,0,0,1,0,0,0,0,0
+Markdown,80,1,0,0,0,1,0,0,0,0,0
+TeX,70,0,1,0,0,1,0,0,0,0,0
+SAS,75,1,1,0,0,0,0,0,1,1,0
+MatLab,80,0,1,0,0,0,1,0,0,0,0
+AWS,90,0,1,1,0,1,1,1,0,0,0
+Azure,75,0,1,1,0,1,0,1,0,0,0
+Git,90,0,1,0,0,0,0,1,0,0,0
+RStudio,90,0,1,0,0,0,0,0,1,1,0
+Tableau,80,0,1,0,0,1,0,0,1,1,0
+Quarto,70,0,1,0,0,1,0,0,0,0,0
+Excel,85,0,0,1,0,1,1,0,1,0,0
+Machine Learning,95,0,0,1,0,0,1,0,1,0,0
+Deep Learning,75,0,0,1,0,0,1,0,1,0,0
+NLP,80,0,0,1,0,0,0,0,1,0,0
+Statistical Modeling,90,0,0,1,0,0,0,0,1,1,0
+ANOVA,90,0,0,1,0,0,0,0,1,1,0
+Regression Analysis,95,0,0,0,0,0,0,0,1,1,0
+Exploratory Data Analysis (EDA),95,0,0,1,0,0,0,1,0,0,0
+Data Visualization,95,0,0,1,0,0,0,0,0,0,0
+DevOps,80,0,0,1,0,0,0,1,0,0,1
+Experiment Design,85,0,0,0,1,0,1,0,1,0,0
+ETL Pipeline,90,0,0,0,1,0,1,1,1,0,0
+PyTorch,85,0,0,0,1,0,1,0,1,0,0
+Scikit-learn,95,0,0,0,1,0,1,0,1,0,0
+TensorFlow,90,0,0,1,1,0,0,0,1,0,0
+Keras,85,0,0,0,1,0,0,0,1,0,0
+PySpark,85,0,0,0,1,0,0,0,1,1,0
+Pandas,95,0,0,0,1,0,0,0,1,1,0
+NumPy,95,0,0,0,1,0,0,0,1,1,0
+SciPy,80,0,0,0,1,0,0,0,1,1,0
+Matplotlib,95,0,0,0,1,0,1,0,1,0,0
+Seaborn,95,0,0,0,0,0,0,0,0,0,0
+NLTK,85,0,0,0,1,0,0,0,0,0,0
+Collaboration,90,0,0,0,0,0,0,0,0,0,1
+Communication,90,0,0,0,0,0,0,0,0,0,1
+Leadership,75,0,0,0,0,0,0,0,0,0,1
+Time Management,100,0,0,0,0,0,0,0,0,0,1
+Critical Thinking,95,0,0,0,0,0,0,0,0,0,1
+Data Analysis,90,0,0,0,0,0,0,0,1,1,0
